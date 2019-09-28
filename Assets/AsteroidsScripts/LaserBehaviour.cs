@@ -8,8 +8,6 @@ namespace DefaultNamespace
 {
     public class LaserBehaviour : Weapon
     {
-
-
         public Vector2 LaserWidth;
         public float LaserMaxDistance = 50;
         
@@ -75,7 +73,7 @@ namespace DefaultNamespace
             // if we've hit something, our destination is the raycast hit
             if (hit.transform != null)
             {
-                _destination = (hit.point);
+                   _destination = (hit.point);
             }
             // otherwise we just draw our laser in front of our weapon 
             else

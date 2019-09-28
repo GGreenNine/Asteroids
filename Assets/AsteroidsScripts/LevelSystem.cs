@@ -6,7 +6,7 @@ using UnityEngine;
 namespace Asteroids
 {
     [Serializable]
-    public class LevelSystem : LazySingleton<LevelSystem>
+    public class LevelSystem : Singleton<LevelSystem>
     {
         public static int Current_Level = 1;
         private const string ResourceFolderPath = "LevelS";

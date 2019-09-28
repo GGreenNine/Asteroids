@@ -11,19 +11,15 @@ namespace Asteroids
         public float maxSpeed;
         public float smoothTime;
 
-        private SmoothMover _smoothMover;
+        private FollowTarget _smoothMover;
 
         private void Awake()
         {
-            _smoothMover = GetComponent<SmoothMover>();
+            _smoothMover = GetComponent<FollowTarget>();
         }
 
         private void FixedUpdate()
         {
-            if (target)
-            {
-                _smoothMover.Move();
-            }
         }
 
         public override void Spawn()
@@ -38,12 +34,9 @@ namespace Asteroids
 
         public void ConfigureSmoothMover()
         {
-            _smoothMover.BeginMoving();
-            _smoothMover.useFixedDeltaTime = true;
-            _smoothMover.smoothTime = smoothTime;
-            _smoothMover.maxSpeed = maxSpeed;
-            _smoothMover.TargetPosition = target;
-            _smoothMover.stopWhenReach = false;
+            _smoothMover.Target = target;
+            _smoothMover.StartFollowing();
+            _smoothMover.FollowPositionSpeed = maxSpeed;
         }
     }
 }

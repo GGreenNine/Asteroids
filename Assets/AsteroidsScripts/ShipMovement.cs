@@ -1,4 +1,3 @@
-using HappyUnity.Math;
 using UnityEngine;
 
 namespace Asteroids

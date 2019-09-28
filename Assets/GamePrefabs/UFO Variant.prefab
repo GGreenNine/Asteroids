@@ -37,7 +37,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.2
---- !u!114 &-5588018103824625734
+--- !u!114 &3603599667921244632
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -46,14 +46,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 3245817271933581949}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7609770f9321db4eb7704851281a42d, type: 3}
+  m_Script: {fileID: 11500000, guid: 53d598bf84f4c2e47a3ee42c9a8fafff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  smoothTime: 1
-  maxSpeed: 100
-  stopWhenReach: 0
-  endPrecision: 0.02
-  useFixedDeltaTime: 0
+  FollowPosition: 1
+  FollowRotation: 0
+  Target: {fileID: 0}
+  Offset: {x: 0, y: 0, z: 0}
+  AddInitialDistanceXToXOffset: 0
+  AddInitialDistanceYToYOffset: 0
+  AddInitialDistanceZToZOffset: 0
+  InterpolatePosition: 1
+  InterpolateRotation: 0
+  FollowPositionSpeed: 10
+  FollowRotationSpeed: 10
+  UpdateMode: 0
+  FollowPositionX: 1
+  FollowPositionY: 1
+  FollowPositionZ: 1
 --- !u!114 &3973668650242137912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89,7 +99,7 @@ MonoBehaviour:
   minScale: 1
   maxScale: 1.5
   target: {fileID: 0}
-  maxSpeed: 200
+  maxSpeed: 0.5
   smoothTime: 1
 --- !u!1001 &3245817271933469459
 PrefabInstance:

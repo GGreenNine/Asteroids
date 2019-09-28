@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Asteroids
 {
-    public sealed class AsteroidsManager : LazySingleton<AsteroidsManager>
+    public sealed class AsteroidsManager : Singleton<AsteroidsManager>
     {
         public ObjectPool big, small;
 

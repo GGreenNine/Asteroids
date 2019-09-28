@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee9144db-87ea-4dcd-b07a-98de2d1f268c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Ship.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding>
+                <marker date="1568548202660" expanded="true" signature="6:51" ph="..." />
+                <marker date="1568548202660" expanded="true" signature="72:2119" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="165:2117" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="342:550" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="653:838" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="689:828" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="874:1028" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="1066:1241" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="1287:1420" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="1459:1594" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="1648:1769" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="1853:2007" ph="{...}" />
+                <marker date="1568548202660" expanded="true" signature="2056:2111" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/EnemyUnit.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <marker date="1568548202637" expanded="true" signature="6:32" ph="..." />
+                <marker date="1568548202637" expanded="true" signature="53:1749" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="93:1747" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="158:509" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="273:499" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="568:659" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="708:797" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="908:1052" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="1136:1208" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="1271:1556" ph="{...}" />
+                <marker date="1568548202637" expanded="true" signature="1598:1740" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameUnit.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+              <folding>
+                <marker date="1568548202645" expanded="false" signature="6:84" ph="..." />
+                <marker date="1568548202645" expanded="true" signature="105:1803" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="158:1801" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="663:780" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="825:1057" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="1130:1332" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="1393:1578" ph="{...}" />
+                <marker date="1568548202645" expanded="true" signature="1622:1795" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UFO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <marker date="1569675202134" expanded="true" signature="6:104" ph="..." />
+                <marker date="1569675202134" expanded="true" signature="125:942" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="160:940" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="337:414" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="450:470" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="508:613" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="667:728" ph="{...}" />
+                <marker date="1569675202134" expanded="true" signature="772:934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="133" column="26" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="26" />
+              <folding>
+                <marker date="1568548202641" expanded="true" signature="6:253" ph="..." />
+                <marker date="1568548202641" expanded="true" signature="274:6730" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="330:6728" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="756:850" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="991:1584" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="1028:1535" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="1622:1965" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="1995:2190" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="2200:2363" ph="/// Works in backgroud, changing the game Behaviour ... " />
+                <marker date="1568548202641" expanded="true" signature="2410:2884" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="2445:2874" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="2499:2655" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="2927:3269" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="3303:3605" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="3638:3876" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="3803:3866" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="3908:4544" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="3969:4297" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="4314:4494" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="4584:5271" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="4829:5261" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="5376:6012" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="5459:5939" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="6062:6179" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="6209:6385" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="6433:6722" ph="{...}" />
+                <marker date="1568548202641" expanded="true" signature="6487:6712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="44" column="70" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="70" />
+              <folding>
+                <marker date="1569675440863" expanded="true" signature="39:1243" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="87:1231" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="284:427" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="457:507" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="635:711" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="746:839" ph="{...}" />
+                <marker date="1569675440863" expanded="true" signature="930:1225" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+              <folding>
+                <marker date="1569675064602" expanded="false" signature="6:120" ph="..." />
+                <marker date="1569675064602" expanded="true" signature="141:1210" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="214:1208" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="394:511" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="549:643" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="681:823" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="880:994" ph="{...}" />
+                <marker date="1569675064602" expanded="true" signature="1059:1202" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/LevelSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <marker date="1569675070330" expanded="false" signature="6:80" ph="..." />
+                <marker date="1569675070330" expanded="true" signature="101:932" ph="{...}" />
+                <marker date="1569675070330" expanded="true" signature="176:930" ph="{...}" />
+                <marker date="1569675070330" expanded="true" signature="396:618" ph="{...}" />
+                <marker date="1569675070330" expanded="true" signature="660:726" ph="{...}" />
+                <marker date="1569675070330" expanded="true" signature="760:843" ph="{...}" />
+                <marker date="1569675070330" expanded="true" signature="875:924" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UIStorage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <marker date="1569675084723" expanded="false" signature="6:120" ph="..." />
+                <marker date="1569675084723" expanded="true" signature="141:2725" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="193:2723" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="347:424" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="459:511" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="564:1528" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="817:953" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="1001:1172" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="1226:1347" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="1385:1518" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="1588:2708" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="1898:2031" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="2114:2355" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="2393:2523" ph="{...}" />
+                <marker date="1569675084723" expanded="true" signature="2576:2698" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Singletons/Singleton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1569673755771" expanded="false" signature="6:78" ph="..." />
+                <marker date="1569673755771" expanded="true" signature="111:1122" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="179:1119" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="194:260" ph="/// Singleton pattern ... " />
+                <marker date="1569673755771" expanded="true" signature="332:782" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="358:772" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="411:723" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="527:705" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="822:1113" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="872:924" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="960:1027" ph="{...}" />
+                <marker date="1569673755771" expanded="true" signature="1044:1103" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>score</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/TransformUtils/GameField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Asteroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/MachineGunBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UFO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UIStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ScreenWrapBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/LaserBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/BulletBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ObjectPools/Poolable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Pause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/LevelSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsGameBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/EnemyUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Singletons/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/LaserBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/LevelSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/UIStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/UFO.cs" />
+        <option value="$PROJECT_DIR$/Assets/AsteroidsScripts/ShipMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee9144db-87ea-4dcd-b07a-98de2d1f268c" name="Default Changelist" comment="" />
+      <created>1569145968159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569145968159</updated>
+      <workItem from="1569145969498" duration="17040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17040000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3138833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Weapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1568548202687" expanded="false" signature="6:120" ph="..." />
+            <marker date="1568548202687" expanded="true" signature="148:12903" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="199:12901" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="214:1726" ph="Parameters" />
+            <marker date="1568548202687" expanded="true" signature="266:570" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="604:663" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="1309:1411" ph="{...}" />
+            <marker date="1568548202687" expanded="false" signature="1736:2067" ph="Events" />
+            <marker date="1568548202687" expanded="true" signature="2077:2167" ph="/// On LateUpdate, processes the weapon state ... " />
+            <marker date="1568548202687" expanded="true" signature="2211:2265" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="2305:2368" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="2378:2450" ph="/// Initialize this weapon. ... " />
+            <marker date="1568548202687" expanded="true" signature="2495:2614" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="2668:3807" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="2711:3797" ph="{...}" />
+            <marker date="1568548202687" expanded="false" signature="3817:6897" ph="Case_Methods" />
+            <marker date="1568548202687" expanded="true" signature="3847:3979" ph="/// When the weapon starts we switch to a delay or shoot based on our weapon's settings ... " />
+            <marker date="1568548202687" expanded="true" signature="4025:4310" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="4071:4223" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="4240:4300" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="4320:4472" ph="/// on reload, we reset our movement multiplier, and switch to reload stop once our reload delay has passed ... " />
+            <marker date="1568548202687" expanded="true" signature="4519:4719" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="4618:4709" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="4729:4866" ph="/// If we're in delay before use, we wait until our delay is passed and then request a shoot ... " />
+            <marker date="1568548202687" expanded="true" signature="4921:5100" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="5030:5090" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="5110:5224" ph="/// On weapon use we use our weapon then switch to delay between uses ... " />
+            <marker date="1568548202687" expanded="true" signature="5268:5434" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="5444:5548" ph="/// If a reload is needed, we mention it and switch to idle ... " />
+            <marker date="1568548202687" expanded="true" signature="5601:5702" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="5712:5812" ph="/// on reload stop, we swtich to idle and load our ammo ... " />
+            <marker date="1568548202687" expanded="true" signature="5863:6014" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6024:6154" ph="/// When in delay between uses, we either turn our weapon off or make a shoot request ... " />
+            <marker date="1568548202687" expanded="true" signature="6211:6605" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6324:6595" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6415:6487" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6508:6581" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6615:6722" ph="/// on reload start, we reload the weapon and switch to reload ... " />
+            <marker date="1568548202687" expanded="true" signature="6774:6877" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="6908:7020" ph="/// Reloads the weapon ... " />
+            <marker date="1568548202687" expanded="true" signature="7066:7185" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7107:7175" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7195:7298" ph="/// When the weapon is used, plays the corresponding sound ... " />
+            <marker date="1568548202687" expanded="true" signature="7338:7358" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7368:7453" ph="/// Called by input, turns the weapon on ... " />
+            <marker date="1568548202687" expanded="true" signature="7500:7759" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7538:7590" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7647:7749" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7769:7854" ph="/// Seting the owner of a current weapon ... " />
+            <marker date="1568548202687" expanded="true" signature="7931:7983" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="7993:8087" ph="/// Determines whether or not the weapon can fire ... " />
+            <marker date="1568548202687" expanded="true" signature="8130:10110" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8168:8220" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8252:9745" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8310:9082" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8372:8676" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8701:9064" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8780:8884" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="8913:9042" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9103:9731" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9168:9342" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9367:9713" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9429:9533" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9562:9691" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9762:10100" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9820:9969" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="9990:10086" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="10120:10222" ph="/// Describes what happens when the weapon needs a reload ... " />
+            <marker date="1568548202687" expanded="true" signature="10265:10325" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="10335:10405" ph="/// Turns the weapon off. ... " />
+            <marker date="1568548202687" expanded="true" signature="10449:10710" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="10515:10567" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="10720:10814" ph="/// Describes what happens when the weapon starts ... " />
+            <marker date="1568548202687" expanded="true" signature="10860:10934" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="10986:11244" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11090:11142" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11254:11332" ph="/// Plays the weapon's stop sound ... " />
+            <marker date="1568548202687" expanded="true" signature="11391:11411" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11421:11496" ph="/// Fills the weapon with ammo ... " />
+            <marker date="1568548202687" expanded="true" signature="11545:12005" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11586:11995" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11751:11934" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="11804:11916" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="12054:12491" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="12286:12445" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="12501:12650" ph="/// Returns true if this weapon has enough ammo to fire, false otherwise ... " />
+            <marker date="1568548202687" expanded="true" signature="12689:12895" ph="{...}" />
+            <marker date="1568548202687" expanded="true" signature="12730:12823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/BulletBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <marker date="1568548202632" expanded="true" signature="6:35" ph="..." />
+            <marker date="1568548202632" expanded="true" signature="63:454" ph="{...}" />
+            <marker date="1568548202632" expanded="true" signature="123:452" ph="{...}" />
+            <marker date="1568548202632" expanded="true" signature="244:386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/MachineGunBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1568548202647" expanded="true" signature="6:113" ph="..." />
+            <marker date="1568548202647" expanded="true" signature="141:1784" ph="{...}" />
+            <marker date="1568548202647" expanded="true" signature="189:1782" ph="{...}" />
+            <marker date="1568548202647" expanded="true" signature="567:638" ph="/// Initialize this weapon ... " />
+            <marker date="1568548202647" expanded="true" signature="684:952" ph="{...}" />
+            <marker date="1568548202647" expanded="true" signature="963:1047" ph="/// Called everytime the weapon is used ... " />
+            <marker date="1568548202647" expanded="true" signature="1088:1362" ph="{...}" />
+            <marker date="1568548202647" expanded="true" signature="1186:1352" ph="{...}" />
+            <marker date="1568548202647" expanded="true" signature="1372:1465" ph="/// Spawns a new object and positions/resizes it ... " />
+            <marker date="1568548202647" expanded="true" signature="1577:1767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipShooter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <marker date="1568548202661" expanded="false" signature="6:165" ph="..." />
+            <marker date="1568548202661" expanded="true" signature="186:1198" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="233:1196" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="387:448" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="497:809" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="559:715" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="844:990" ph="{...}" />
+            <marker date="1568548202661" expanded="true" signature="1030:1180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <marker date="1568548202660" expanded="true" signature="39:694" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="75:692" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="121:190" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="235:304" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="347:415" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="463:575" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="618:686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/LaserBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="98" column="39" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
+          <folding>
+            <marker date="1569365695510" expanded="false" signature="6:114" ph="..." />
+            <marker date="1569365695510" expanded="true" signature="142:3089" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="185:3087" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="457:941" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="951:1023" ph="/// &lt;/summary&gt; ... " />
+            <marker date="1569365695510" expanded="true" signature="1069:1253" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="1264:1348" ph="/// Called everytime the weapon is used ... " />
+            <marker date="1569365695510" expanded="true" signature="1389:1493" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="1503:1574" ph="/// Draws the actual laser ... " />
+            <marker date="1569365695510" expanded="true" signature="1618:2710" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="1841:2008" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="2122:2197" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="2286:2523" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="2756:2922" ph="{...}" />
+            <marker date="1569365695510" expanded="true" signature="2964:3070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ScreenWrapBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <marker date="1568548202659" expanded="true" signature="6:70" ph="..." />
+            <marker date="1568548202659" expanded="true" signature="120:4203" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="499:644" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="663:875" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="702:795" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="898:2190" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="1515:1728" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="1791:1998" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="2085:2184" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="2230:2524" ph="{...}" />
+            <marker date="1568548202659" expanded="true" signature="3419:4201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Pause.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <marker date="1568548202656" expanded="true" signature="6:58" ph="..." />
+            <marker date="1568548202656" expanded="true" signature="79:900" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="120:898" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="216:279" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="325:388" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="422:471" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="507:557" ph="{...}" />
+            <marker date="1568548202656" expanded="true" signature="588:892" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ObjectPools/Poolable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding>
+            <marker date="1568548202653" expanded="true" signature="6:91" ph="..." />
+            <marker date="1568548202653" expanded="true" signature="134:2092" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="236:1411" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="366:538" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="573:849" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="621:797" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="874:932" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="958:1040" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1071:1123" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1217:1405" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1550:1602" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1716:1752" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1884:2090" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="1925:1986" ph="{...}" />
+            <marker date="1568548202653" expanded="true" signature="2024:2084" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/TransformUtils/GameField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1568548202670" expanded="false" signature="6:122" ph="..." />
+            <marker date="1568548202670" expanded="true" signature="159:2735" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="204:2469" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="349:465" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="475:597" ph="/// Getting random position in the game field ... " />
+            <marker date="1568548202670" expanded="true" signature="673:1232" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="718:842" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="1338:1671" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="1700:2099" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="1921:2089" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="1985:2075" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="2197:2463" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="2503:2733" ph="{...}" />
+            <marker date="1568548202670" expanded="true" signature="2607:2727" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsGameBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1568548202631" expanded="false" signature="6:57" ph="..." />
+            <marker date="1568548202631" expanded="true" signature="78:1295" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="165:1293" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="262:309" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="340:390" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="436:575" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="740:961" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="1014:1065" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="1234:1287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Asteroid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <marker date="1568548202631" expanded="true" signature="6:32" ph="..." />
+            <marker date="1568548202631" expanded="true" signature="53:1135" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="93:1133" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="133:188" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="513:560" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="612:659" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="707:763" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="835:917" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="949:1127" ph="{...}" />
+            <marker date="1568548202631" expanded="true" signature="1007:1117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/TransformUtils/SmoothMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/EnemyUnit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <marker date="1568548202637" expanded="true" signature="6:32" ph="..." />
+            <marker date="1568548202637" expanded="true" signature="53:1749" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="93:1747" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="158:509" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="273:499" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="568:659" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="708:797" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="908:1052" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="1136:1208" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="1271:1556" ph="{...}" />
+            <marker date="1568548202637" expanded="true" signature="1598:1740" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameUnit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <marker date="1568548202645" expanded="false" signature="6:84" ph="..." />
+            <marker date="1568548202645" expanded="true" signature="105:1803" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="158:1801" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="663:780" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="825:1057" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="1130:1332" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="1393:1578" ph="{...}" />
+            <marker date="1568548202645" expanded="true" signature="1622:1795" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="133" column="26" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="26" />
+          <folding>
+            <marker date="1568548202641" expanded="true" signature="6:253" ph="..." />
+            <marker date="1568548202641" expanded="true" signature="274:6730" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="330:6728" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="756:850" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="991:1584" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="1028:1535" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="1622:1965" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="1995:2190" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="2200:2363" ph="/// Works in backgroud, changing the game Behaviour ... " />
+            <marker date="1568548202641" expanded="true" signature="2410:2884" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="2445:2874" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="2499:2655" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="2927:3269" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="3303:3605" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="3638:3876" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="3803:3866" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="3908:4544" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="3969:4297" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="4314:4494" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="4584:5271" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="4829:5261" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="5376:6012" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="5459:5939" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="6062:6179" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="6209:6385" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="6433:6722" ph="{...}" />
+            <marker date="1568548202641" expanded="true" signature="6487:6712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/AsteroidsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <marker date="1569675064602" expanded="false" signature="6:120" ph="..." />
+            <marker date="1569675064602" expanded="true" signature="141:1210" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="214:1208" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="394:511" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="549:643" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="681:823" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="880:994" ph="{...}" />
+            <marker date="1569675064602" expanded="true" signature="1059:1202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Singletons/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1569673755771" expanded="false" signature="6:78" ph="..." />
+            <marker date="1569673755771" expanded="true" signature="111:1122" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="179:1119" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="194:260" ph="/// Singleton pattern ... " />
+            <marker date="1569673755771" expanded="true" signature="332:782" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="358:772" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="411:723" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="527:705" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="822:1113" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="872:924" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="960:1027" ph="{...}" />
+            <marker date="1569673755771" expanded="true" signature="1044:1103" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/LevelSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <marker date="1569675070330" expanded="false" signature="6:80" ph="..." />
+            <marker date="1569675070330" expanded="true" signature="101:932" ph="{...}" />
+            <marker date="1569675070330" expanded="true" signature="176:930" ph="{...}" />
+            <marker date="1569675070330" expanded="true" signature="396:618" ph="{...}" />
+            <marker date="1569675070330" expanded="true" signature="660:726" ph="{...}" />
+            <marker date="1569675070330" expanded="true" signature="760:843" ph="{...}" />
+            <marker date="1569675070330" expanded="true" signature="875:924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UIStorage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <marker date="1569675084723" expanded="false" signature="6:120" ph="..." />
+            <marker date="1569675084723" expanded="true" signature="141:2725" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="193:2723" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="347:424" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="459:511" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="564:1528" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="817:953" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="1001:1172" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="1226:1347" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="1385:1518" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="1588:2708" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="1898:2031" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="2114:2355" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="2393:2523" ph="{...}" />
+            <marker date="1569675084723" expanded="true" signature="2576:2698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/UFO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1569675202134" expanded="true" signature="6:104" ph="..." />
+            <marker date="1569675202134" expanded="true" signature="125:942" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="160:940" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="337:414" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="450:470" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="508:613" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="667:728" ph="{...}" />
+            <marker date="1569675202134" expanded="true" signature="772:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/Ship.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <marker date="1568548202660" expanded="true" signature="6:51" ph="..." />
+            <marker date="1568548202660" expanded="true" signature="72:2119" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="165:2117" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="342:550" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="653:838" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="689:828" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="874:1028" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="1066:1241" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="1287:1420" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="1459:1594" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="1648:1769" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="1853:2007" ph="{...}" />
+            <marker date="1568548202660" expanded="true" signature="2056:2111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AsteroidsScripts/ShipMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="44" column="70" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="70" />
+          <folding>
+            <marker date="1569675440863" expanded="true" signature="39:1243" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="87:1231" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="284:427" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="457:507" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="635:711" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="746:839" ph="{...}" />
+            <marker date="1569675440863" expanded="true" signature="930:1225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

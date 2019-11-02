@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using Asteroids;
+using CryoDI;
 using DefaultNamespace;
 using HappyUnity.Spawners.ObjectPools;
 using UnityEngine;
@@ -7,15 +8,18 @@ using UnityEngine.Serialization;
 
 namespace Asteroids
 {
-    public class ShipShooter : MonoBehaviour
+    public class ShipShooter : CryoBehaviour
     {
         public Weapon[] WeaponInventory;
 
         public Weapon _currentWeapon;
         private int _currentWeaponId;
-        
-        void Awake()
+
+        [HardDependency(typeof(ShipShooter))] private IController ShipController { get; set; }
+
+        protected override void Awake()
         {
+            base.Awake();
             InitializeWeaponInventory();
         }
 
@@ -36,14 +40,13 @@ namespace Asteroids
             _currentWeaponId = _currentWeaponId == 0 ? 1 : 0;
             _currentWeapon = WeaponInventory[_currentWeaponId];
         }
-        
-        
+
+
         void Update()
         {
-            if (ShipInput.IsShooting()) _currentWeapon.WeaponInputStart();
-            if(ShipInput.ChangeWeapon()) SwapWeapon();
+            if (ShipController.IsShooting) _currentWeapon.WeaponInputStart();
+            if (ShipController.ChangeWeapon) SwapWeapon();
         }
 
-        
     }
 }

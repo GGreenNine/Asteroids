@@ -1,33 +1,27 @@
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 namespace Asteroids
 {
-    public static class ShipInput
+    using DefaultNamespace;
+    public class ShipInput : IController
     {
-        public static bool IsShooting()
+        bool IController.IsShooting => Input.GetButtonDown("Fire1");
+
+        bool IController.IsHyperspacing => Input.GetButtonDown("Fire2");
+
+        public float TurnAxis => Input.GetAxis("Horizontal");
+
+        public float FrwdAxis
         {
-            return Input.GetButtonDown("Fire1");
+            get
+            {
+                float axis = Input.GetAxis("Vertical");
+                return Mathf.Clamp01(axis);
+            }
         }
 
-        public static bool IsHyperspacing()
-        {
-            return Input.GetButtonDown("Fire2");
-        }
-
-        public static float GetTurnAxis()
-        {
-            return Input.GetAxis("Horizontal");
-        }
-
-        public static float GetForwardThrust()
-        {
-            float axis = Input.GetAxis("Vertical");
-            return Mathf.Clamp01(axis);
-        }
-
-        public static bool ChangeWeapon()
-        {
-            return Input.GetKeyDown(KeyCode.R);
-        }
+        bool IController.ChangeWeapon => Input.GetKeyDown(KeyCode.R);
     }
+
 }

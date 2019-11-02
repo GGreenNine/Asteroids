@@ -1,48 +1,69 @@
+using CryoDI;
+using DefaultNamespace;
 using UnityEngine;
 
 namespace Asteroids
 {
-    public class ShipMovement : MonoBehaviour
+    public class ShipMovement : CryoBehaviour
     {
         public float maxSpeed = 300f;
         public float thrust = 1000f;
         public float torque = 500f;
-        float thrustInput;
-        Rigidbody2D rb;
         
-        void Move()
+        private float thrustInput;
+        private Rigidbody2D rb;
+        
+        [HardDependency(typeof(ShipMovement))] private IController ShipController { get; set; }
+        
+        private void Move()
         {
-            Vector3 thrustForce = thrustInput * Time.deltaTime * 100 * transform.up;
+            var thrustForce = thrustInput * Time.deltaTime * 100 * transform.up;
             rb.AddForce(thrustForce);
         }
         
-        void Reset()
+        private void Reset()
         {
             thrustInput = 0f;
         }
-        
-        void Awake() { rb = GetComponent<Rigidbody2D>(); }
-        void OnEnable() { Reset(); }
 
-        void Update()
+        protected override void Awake()
         {
-            thrustInput = ShipInput.GetForwardThrust();
+            base.Awake();
+            rb = GetComponent<Rigidbody2D>();
+        }
+
+        private void OnEnable()
+        {
+            Reset();
+        }
+
+        private void Update()
+        {
+            thrustInput = ShipController.FrwdAxis;
         }
         
-        void ClampSpeed()
+        private void ClampSpeed()
         {
             rb.velocity = Vector2.ClampMagnitude(rb.velocity, maxSpeed);
         }
 
-        void FixedUpdate() { Move(); Turn(); ClampSpeed(); }
-        
-        void Turn()
+        private void FixedUpdate()
         {
-            Vector3 diff = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
-            diff.Normalize();
+            Move(); 
+            Turn(); 
+            ClampSpeed();
+        }
+        
+        private void Turn()
+        {
+            if (Camera.main != null)
+            {
+                var diff = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+                diff.Normalize();
  
-            float rot_z = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
-            transform.rotation = Quaternion.Euler(0f, 0f, rot_z - 90);
+                var rotZ = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+                transform.rotation = Quaternion.Euler(0f, 0f, rotZ - 90);
+            }
         }
     }
     

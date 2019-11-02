@@ -15,7 +15,7 @@ namespace Asteroids
         public Weapon _currentWeapon;
         private int _currentWeaponId;
 
-        [HardDependency(typeof(ShipShooter))] private IController ShipController { get; set; }
+        [TypeDependencyAttribute(typeof(ShipShooter))] private IController ShipController { get; set; }
 
         protected override void Awake()
         {

@@ -13,7 +13,7 @@ namespace Asteroids
         private float thrustInput;
         private Rigidbody2D rb;
         
-        [HardDependency(typeof(ShipMovement))] private IController ShipController { get; set; }
+        [TypeDependency(typeof(ShipMovement))] private IController ShipController { get; set; }
         
         private void Move()
         {
